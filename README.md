@@ -1,0 +1,2 @@
+# docs
+Mailazy Documentation Source
